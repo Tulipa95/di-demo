@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 public class SetterInjectedController {
     private GreetingService greetingService;
 
-    public String sayHello(){
+    public String sayHello() {
         return greetingService.sayGreeting();
     }
 
