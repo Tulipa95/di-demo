@@ -1,7 +1,7 @@
 package guru.springframework.didemo.controllers;
 
 import guru.springframework.didemo.controller.ConstructorInjectedController;
-import guru.springframework.didemo.services.GreetingServiceImpl;
+import guru.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
 
