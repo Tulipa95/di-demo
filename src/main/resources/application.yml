@@ -3,3 +3,9 @@ guru:
     username: JMS user
     password: pass
     dburl: fsawfhfdhsga
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: JMS user $$$$$
